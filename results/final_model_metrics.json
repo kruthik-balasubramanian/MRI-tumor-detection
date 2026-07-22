@@ -1,0 +1,10 @@
+{
+  "model": "XGBoost",
+  "Accuracy": 0.7741116751269036,
+  "F1_Macro": 0.7232370904325367,
+  "best_params": {
+    "n_estimators": 150,
+    "max_depth": 5,
+    "learning_rate": 0.1
+  }
+}
