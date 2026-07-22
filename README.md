@@ -1,4 +1,4 @@
-# Early Disease Finding Detection from Brain MRI Scans — ML
+# Detection from Brain MRI Scans — ML
 
 Classifying brain MRI scans to flag likely findings (glioma, meningioma,
 pituitary tumor, or no tumor) using classical machine learning on
